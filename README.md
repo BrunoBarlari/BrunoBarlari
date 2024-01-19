@@ -3,7 +3,6 @@
           
 <h1>Hi there!</h1>
 
-
 <p></br> I'm Bruno, a Software Developer and Systems Engineering student from  <b>Argentina</b> . </p>
 <h3>Things I code with</h3>
 <p>
@@ -28,7 +27,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
+<h2>------------------------------------------------------</h2>
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/BrunoBarlari" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
