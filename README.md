@@ -1,13 +1,7 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Bruno, I am a Software Developer and Systems Engineering student based in Argentina</div>  
-  
+### <div align="center">👨‍💻 Hey there, I'm Bruno - Software Developer and Systems Engineering Student from Argentina 👾</div>  
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -43,14 +37,11 @@
 <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
-
-
-</td></tr></table>  
+</table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -67,30 +58,10 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BrunoBarlari&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
+### Currently listening
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31cqkfsmrzbpqj2vyvglyu26fhxa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>  
 
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
