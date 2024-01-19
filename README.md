@@ -1,3 +1,4 @@
+![Header](./img.png)
 
 ### <div align="center">👨‍💻 Hey there, I'm Bruno - Software Developer and Systems Engineering Student from Argentina 👾</div>  
 
